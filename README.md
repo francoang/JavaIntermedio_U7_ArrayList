@@ -1,4 +1,4 @@
-# JAVA INTERMEDIO _ Unidad 07.
+# JAVA INTERMEDIO _ Unidad 07 _ ArrayList.
 
 _Este proyecto contiene las demostraciones en clases referidas a la Unidad 7 sobre Genéricos y recopilaciones_
 
